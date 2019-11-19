@@ -17,3 +17,7 @@ Once the application starts, it will exchange greeting messages with the server.
 
 Pressing any button on the application will send the button ID to the server, which will print it out along with timestamps for when the message was send and when it was received.
 
+<div>
+<img src="screenshots/server.png" alt="server" width="350"/>
+<img src="screenshots/app.jpeg" alt="app" width="350"/>
+</div>
